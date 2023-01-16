@@ -1,0 +1,25 @@
+{
+    "user":"demasay@gmail.com",
+    "expenses":[
+        {
+            "date":"2023-01-16T20:18:21.860Z",
+            "value":{
+                "amount":10.0,
+                "currency":"EUR"
+            },
+            "category":"Alimentation",
+            "description":"Achats Carrefour",
+            "recurrence":{
+                "isRecurrent":true,
+                "frequency":"Monthly"
+            },
+            "sharedExpense":{
+                "isShared":true,
+                "between":[
+                    "Sandy"
+                ]
+            },
+            "validated":true
+        }
+    ]
+}
